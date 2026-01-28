@@ -5,6 +5,16 @@
 <h1 align="center">👋 Hey, I'm Vaishnavi Nandi</h1>
 <h3 align="center">Data Analyst | Python Developer | Data Visualization Enthusiast</h3>
 
+### 💬 Connect With Me
+
+
+<p align="center">
+  <a href="mailto:vaishnavinandi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vaishnavinandi26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-nandi-03b072298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/vaishnavinandi26/vaishnavinandi26/assets/placeholder-banner.gif" alt="Profile Banner" width="80%" />
 </p>
@@ -100,11 +110,3 @@ Data Science, Python Development, AI, and Full Stack Development.
 
 ---
 
-### 💬 Connect With Me
-
-
-<p align="center">
-  <a href="mailto:vaishnavinandi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vaishnavinandi26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vaishnavi-nandi-03b072298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
