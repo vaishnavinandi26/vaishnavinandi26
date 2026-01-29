@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Vaishnavi Nandi</h1>
+<h1 align="center">👋  I'm Vaishnavi Nandi</h1>
 <h3 align="center">Data Analyst | Python Developer | Data Visualization Enthusiast</h3>
 
 ### 💬 Connect With Me
