@@ -58,7 +58,7 @@
 
 ---
 
-# 📜 Certifications & Internships
+# 📜 Achievements & Internships
 
 A complete list of my **certifications and internship achievements** in
 Data Science, Python Development, AI, and Full Stack Development.
@@ -87,15 +87,7 @@ Data Science, Python Development, AI, and Full Stack Development.
 
 # 💼 Internship Certifications
 
-## 🚀 Python Development Internships
-
-### 🟦 CodSoft — *Python Development Internship*
-
-![Badge](https://img.shields.io/badge/Python%20Internship-CodSoft-blueviolet)
-
-- Completed hands-on Python development tasks  
-- Worked on mini-projects and practical coding assignments  
-- Strengthened core Python skills and logical problem-solving  
+## 🚀 Python Development Internships 
 
 ---
 
