@@ -88,24 +88,6 @@
   <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20Achievements-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
-<br>
-
-<!-- CERTIFICATE GRID -->
-<p align="center">
-
-<!-- Cisco Certificate -->
-<a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
-  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="420" style="border-radius:12px; transition:0.3s;" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- Codetantra Certificate -->
-<a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
-  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="420" style="border-radius:12px; transition:0.3s;" />
-</a>
-
-</p>
 
 <br>
 
