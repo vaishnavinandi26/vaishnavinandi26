@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="600" style="border-radius:12px;" />
+   
   </a>
 </p>
 
