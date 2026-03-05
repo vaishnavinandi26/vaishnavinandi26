@@ -85,20 +85,45 @@
 ### 🎓 Minor Degree in Data Science — *JNTUH*
 ![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
 
+### 📊 Data Analytics Essentials — Cisco
+
+<p align="center">
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg" target="_blank">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="500" alt="Cisco Certificate"/>
+  </a>
+</p>
+
+<p align="center">
+  🔎 Click image to view full certificate
+</p>
+
+---
+
+### 🐍 Python Programming — CodeTantra
+
+<p align="center">
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg" target="_blank">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="500" alt="CodeTantra Certificate"/>
+  </a>
+</p>
+
+<p align="center">
+  🔎 Click image to view full certificate
+</p>
+🔥 Cleaner & More Professional Version (Recommended)
+
+If you want a cleaner look without extra text:
+
 ## 🏅 Professional Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="500" alt="Cisco Data Analytics Certificate" />
-</p>
-<p align="center">
-  **Data Analytics Essentials — Cisco**
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="500" alt="Codetantra Python Certificate" />
-</p>
-<p align="center">
-  **Python Programming Certification — CodeTantra**
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg" target="_blank">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="45%" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg" target="_blank">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="45%" />
+  </a>
 </p>
 
 ---
