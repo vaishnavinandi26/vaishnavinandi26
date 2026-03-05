@@ -84,45 +84,48 @@
 
 ### 🎓 Minor Degree in Data Science — *JNTUH*
 ![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
-
-### 📊 Data Analytics Essentials — Cisco
-
 <p align="center">
-  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg" target="_blank">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="500" alt="Cisco Certificate"/>
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20Achievements-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- CERTIFICATE GRID -->
+<p align="center">
+
+<!-- Cisco Certificate -->
+<a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
+  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="420" style="border-radius:12px; transition:0.3s;" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- Codetantra Certificate -->
+<a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
+  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="420" style="border-radius:12px; transition:0.3s;" />
+</a>
+
+</p>
+
+<br>
+
+<!-- CERTIFICATE TITLES -->
+<p align="center">
+  🎓 <b>Data Analytics Essentials — Cisco</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🐍 <b>Python Programming — CodeTantra</b>
+</p>
+
+<br>
+
+<!-- VERIFY BUTTONS -->
+<p align="center">
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
+    <img src="https://img.shields.io/badge/Verify-Cisco%20Certificate-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  🔎 Click image to view full certificate
-</p>
-
----
-
-### 🐍 Python Programming — CodeTantra
-
-<p align="center">
-  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg" target="_blank">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="500" alt="CodeTantra Certificate"/>
-  </a>
-</p>
-
-<p align="center">
-  🔎 Click image to view full certificate
-</p>
-🔥 Cleaner & More Professional Version (Recommended)
-
-If you want a cleaner look without extra text:
-
-## 🏅 Professional Certifications
-
-<p align="center">
-  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg" target="_blank">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="45%" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg" target="_blank">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="45%" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
+    <img src="https://img.shields.io/badge/Verify-CodeTantra%20Certificate-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
 
