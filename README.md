@@ -110,7 +110,6 @@
 
 <p align="center">
   <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
-    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="600" style="border-radius:12px;" />
   </a>
 </p>
 
