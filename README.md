@@ -87,29 +87,48 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20Achievements-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
-
+---
 
 <br>
 
-<!-- CERTIFICATE TITLES -->
+<!-- ================= Cisco Certificate ================= -->
+
+### 🎓 Data Analytics Essentials — Cisco
+
 <p align="center">
-  🎓 <b>Data Analytics Essentials — Cisco</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🐍 <b>Python Programming — CodeTantra</b>
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="600" style="border-radius:12px;" />
+  </a>
 </p>
 
-<br>
-
-<!-- VERIFY BUTTONS -->
 <p align="center">
   <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/cisco.jpeg">
     <img src="https://img.shields.io/badge/Verify-Cisco%20Certificate-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<br>
+<br>
+
+<!-- ================= CodeTantra Certificate ================= -->
+
+### 🐍 Python Programming — CodeTantra
+
+<p align="center">
+  <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
+    <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="600" style="border-radius:12px;" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/vaishnavinandi26/vaishnavinandi26/blob/main/assets/codetantra.jpeg">
     <img src="https://img.shields.io/badge/Verify-CodeTantra%20Certificate-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
+
+---
+
+
 
 ---
 
