@@ -85,11 +85,21 @@
 ### 🎓 Minor Degree in Data Science — *JNTUH*
 ![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
 
-### 📊 Data Analytics Essentials — *Cisco (2025)*
-![Badge](https://img.shields.io/badge/Data%20Analytics-Cisco-red)
+## 🏅 Professional Certifications
 
-### 🐍 Python Programming — *CodeTantra*
-![Badge](https://img.shields.io/badge/Python-CodeTantra-yellow)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/cisco.jpeg" width="500" alt="Cisco Data Analytics Certificate" />
+</p>
+<p align="center">
+  **Data Analytics Essentials — Cisco**
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavinandi26/vaishnavinandi26/main/assets/codetantra.jpeg" width="500" alt="Codetantra Python Certificate" />
+</p>
+<p align="center">
+  **Python Programming Certification — CodeTantra**
+</p>
 
 ---
 
