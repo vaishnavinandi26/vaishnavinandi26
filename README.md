@@ -84,13 +84,7 @@
 
 ### 🎓 Minor Degree in Data Science — *JNTUH*
 ![Badge](https://img.shields.io/badge/Data%20Science-JNTUH-blue)
-<p align="center">
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-Verified%20Achievements-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
-</p>
----
-
 <br>
-
 <!-- ================= Cisco Certificate ================= -->
 
 ### 🎓 Data Analytics Essentials — Cisco
